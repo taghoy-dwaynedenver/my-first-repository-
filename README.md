@@ -12,3 +12,11 @@
 - Git tracks changes to files.
 - Github hosts repositories online.
 - Commits record changes in the project history.
+
+# My Computing Goals
+1. Writing programs using C language
+2. Designing simple websites
+3. Using GitHub to manage my projects
+
+# My Favorite Technology
+I chose the smartphone because it helps me communicate with others, search for information, and learn new things. It makes studying easier and allows me to access useful applications anytime.
